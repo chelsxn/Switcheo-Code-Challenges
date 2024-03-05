@@ -14,6 +14,7 @@ Advantages: Supposedly the most efficient
 
 Problem 2: Fancy Form
 Estimated Time Taken: 20 hours
+![alt text](FancyForm.jpg)
 In the project directory, you can run:
 
 ### `npm start`
